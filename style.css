@@ -1,0 +1,31 @@
+/*--------[Global Settings]--------*/
+body{
+    background: #4F4F4F;
+    font-size: 90.1%; /*base font size equals 14px*/
+    font-family: 'Trebuchet MS', Trebuchet, 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    line-height: 1.429;
+	margin: 0;
+	padding: 0;
+	text-align: left;
+    }
+#main {
+	width: 1000px; 
+	margin: 0 auto;
+	background: #FFFFFF;
+	clear: both;
+	}
+/*HTML5 tags*/	
+header, section, footer,
+aside, nav, article, figure {
+	display: block;
+    }	
+/*End HTML5 Tags*/
+#top {
+height: 75px;
+background: white;
+}
+#container {
+background: #ffffff;
+height: 200px;
+position: relative;
+]	
